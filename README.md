@@ -5,4 +5,5 @@
 - Regular Expression: <[A-Z]{2,}>
 - Get the acronyms matched based on step 4 and display
 
-<img src="" />
+<img src="https://github.com/MohammedDeveloper/acronymn-finder/blob/master/sampletext.PNG" />
+<img src="https://github.com/MohammedDeveloper/acronymn-finder/blob/master/sampletextacronymns.png" />
